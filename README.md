@@ -1,5 +1,5 @@
 # DSCI235-Final
-##Final Project for DSCI 235
+## Final Project for DSCI 235
 My idea for this project is to take a deeper and more broaden look at Pokémon and how their types have changed over each game/generation that comes out. I want to start by seeing which types have had more or less Pokémon created and how many combined types have been created for each generation? How have these types changed over time and what is the most created Pokémon type in each generation of the games. So, in summary I would like to 
 
 1. How many types and type combinations are there for each generation? 
